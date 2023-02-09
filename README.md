@@ -1,12 +1,12 @@
 # My_First_Application
 
-Mobile App Revision Code
+# Mobile App Revision Code
 This repository contains the revision code for the Mobile App Development module. The code has been developed to help me review the concepts covered in the module and to provide a foundation for future projects.
 
-Getting Started
+# Getting Started
 These instructions will help you get a copy of the code up and running on your local machine for development and testing purposes.
 
-Prerequisites
+# Prerequisites
 In order to run the code, you will need to have the following software installed on your computer:
 
 Android Studio
@@ -27,4 +27,4 @@ Consuming APIs and displaying the data in the app
 Contributing
 This code is intended for educational purposes only and as such, pull requests will not be accepted. If you have any suggestions for improvement or have found a bug, please open an issue in the repository.
 
-License
+
